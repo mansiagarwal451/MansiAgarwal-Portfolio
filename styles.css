@@ -98,17 +98,12 @@ hr {
     text-align: center;
 }
 
-.list-non-bullet .project1 .link-primary {
+.list-non-bullet .project .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     
 }
 
-.list-non-bullet .project2 .link-primary {
-    background-color: var(--primary-color);
-    border-radius: 0.5rem;
-    
-}
 .ow {
     background-color: var(--primary-color);
     color: white;

@@ -104,6 +104,12 @@ hr {
     
 }
 
+.list-non-bullet .blog .link-primary {
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    
+}
+
 .ow {
     background-color: var(--primary-color);
     color: white;
